@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #3f65b8;
+    color: #010508;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-size: 36px;
+}
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+h2 {    
+    margin-top: 0;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
